@@ -1,0 +1,16 @@
+[ {
+  "ccy" : "USD",
+  "base_ccy" : "UAH",
+  "buy" : 38.90000,
+  "sale" : 39.40000
+}, {
+  "ccy" : "EUR",
+  "base_ccy" : "UAH",
+  "buy" : 38.00000,
+  "sale" : 39.00000
+}, {
+  "ccy" : "BTC",
+  "base_ccy" : "USD",
+  "buy" : 19545.4254,
+  "sale" : 21602.8386
+} ]
